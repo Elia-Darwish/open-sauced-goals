@@ -1,20 +1,20 @@
 [
   {
     "full_name": "stitchesjs/stitches",
-    "stargazers_count": 5889,
-    "open_issues_count": 89,
-    "forks_count": 177
+    "stargazers_count": 5908,
+    "open_issues_count": 90,
+    "forks_count": 179
   },
   {
     "full_name": "sachinchoolur/lightGallery",
-    "stargazers_count": 5252,
-    "open_issues_count": 45,
+    "stargazers_count": 5257,
+    "open_issues_count": 44,
     "forks_count": 1206
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 24229,
-    "open_issues_count": 2132,
+    "stargazers_count": 24293,
+    "open_issues_count": 2134,
     "forks_count": 859
   },
   {
@@ -25,26 +25,26 @@
   },
   {
     "full_name": "mxstbr/passport-magic-login",
-    "stargazers_count": 606,
+    "stargazers_count": 608,
     "open_issues_count": 10,
     "forks_count": 29
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 46312,
-    "open_issues_count": 356,
-    "forks_count": 5674
+    "stargazers_count": 46385,
+    "open_issues_count": 350,
+    "forks_count": 5683
   },
   {
     "full_name": "facebookexperimental/Recoil",
-    "stargazers_count": 17180,
-    "open_issues_count": 190,
-    "forks_count": 925
+    "stargazers_count": 17217,
+    "open_issues_count": 191,
+    "forks_count": 927
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 9116,
-    "open_issues_count": 35,
+    "stargazers_count": 9156,
+    "open_issues_count": 32,
     "forks_count": 279
   },
   {
@@ -55,92 +55,92 @@
   },
   {
     "full_name": "tailwindlabs/tailwindcss-typography",
-    "stargazers_count": 2842,
+    "stargazers_count": 2845,
     "open_issues_count": 4,
-    "forks_count": 198
+    "forks_count": 199
   },
   {
     "full_name": "tailwindlabs/tailwindcss-aspect-ratio",
-    "stargazers_count": 681,
+    "stargazers_count": 684,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 19346,
-    "open_issues_count": 49,
-    "forks_count": 561
+    "stargazers_count": 19466,
+    "open_issues_count": 31,
+    "forks_count": 564
   },
   {
     "full_name": "pmndrs/use-gesture",
-    "stargazers_count": 6568,
-    "open_issues_count": 12,
-    "forks_count": 250
+    "stargazers_count": 6593,
+    "open_issues_count": 11,
+    "forks_count": 252
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 18722,
-    "open_issues_count": 38,
-    "forks_count": 1049
+    "stargazers_count": 18760,
+    "open_issues_count": 42,
+    "forks_count": 1057
   },
   {
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 23560,
-    "open_issues_count": 62,
-    "forks_count": 1026
+    "stargazers_count": 23584,
+    "open_issues_count": 64,
+    "forks_count": 1027
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 191428,
-    "open_issues_count": 1039,
-    "forks_count": 39505
+    "stargazers_count": 191613,
+    "open_issues_count": 1045,
+    "forks_count": 39550
   },
   {
     "full_name": "MichalLytek/type-graphql",
-    "stargazers_count": 7307,
+    "stargazers_count": 7317,
     "open_issues_count": 96,
-    "forks_count": 616
+    "forks_count": 619
   },
   {
     "full_name": "styled-components/styled-components",
-    "stargazers_count": 36978,
+    "stargazers_count": 37008,
     "open_issues_count": 109,
-    "forks_count": 2314
+    "forks_count": 2312
   },
   {
     "full_name": "TanStack/query",
-    "stargazers_count": 28529,
-    "open_issues_count": 45,
-    "forks_count": 1651
+    "stargazers_count": 28622,
+    "open_issues_count": 46,
+    "forks_count": 1666
   },
   {
     "full_name": "apollographql/apollo-server",
-    "stargazers_count": 12745,
-    "open_issues_count": 460,
-    "forks_count": 1964
+    "stargazers_count": 12763,
+    "open_issues_count": 461,
+    "forks_count": 1963
   },
   {
     "full_name": "apollographql/apollo-client",
-    "stargazers_count": 17892,
-    "open_issues_count": 661,
-    "forks_count": 2425
+    "stargazers_count": 17901,
+    "open_issues_count": 663,
+    "forks_count": 2428
   },
   {
     "full_name": "framer/motion",
-    "stargazers_count": 15187,
-    "open_issues_count": 191,
-    "forks_count": 466
+    "stargazers_count": 15228,
+    "open_issues_count": 195,
+    "forks_count": 465
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 58827,
-    "open_issues_count": 20,
-    "forks_count": 2955
+    "stargazers_count": 58918,
+    "open_issues_count": 22,
+    "forks_count": 2963
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 89644,
-    "open_issues_count": 1271,
-    "forks_count": 19287
+    "stargazers_count": 89822,
+    "open_issues_count": 1284,
+    "forks_count": 19337
   }
 ]
